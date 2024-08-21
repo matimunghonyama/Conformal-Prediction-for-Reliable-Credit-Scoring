@@ -33,6 +33,6 @@ Finally, I compiled all the findings, visualizations, and interpretations into a
 ## Conclusion
 This project demonstrates how conformal prediction can be applied to credit scoring to provide not just predictions, but also a quantifiable measure of uncertainty. By following a structured approach from data simulation to model deployment, I was able to build a more informative and trustworthy credit scoring model.
 
-I'm open to any inputs or suggestions you may have regarding this project. Feel free to reach out nghonyamamatimu@gmail.com
+I'm open to any inputs or suggestions you may have regarding this project. Feel free to reach out to me nghonyamamatimu@gmail.com
 
 
